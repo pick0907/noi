@@ -1,0 +1,2 @@
+# noi
+exercises for NOIP
